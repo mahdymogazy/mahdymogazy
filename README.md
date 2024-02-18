@@ -3,7 +3,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/mahdymogazy?label=Followers" alt="manarshahin48" />
+		   <img src="https://img.shields.io/github/followers/mahdymogazy?label=Followers" alt="mahdymogazy758" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working at [I work as a freelancer](https://www.linkedin.com/company/etisalat-egypt/)
 - 🌱 I’m currently studying `React` and `Node Js`
 - 📫 How to reach me **mahdymogazy758@gmail.com**
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best
 - - ⚡ Fun fact **There is no such thing as impossible✌️**
