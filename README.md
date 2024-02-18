@@ -2,79 +2,45 @@
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 
-- 🔭 I’m currently working on **I work as a freelancer**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 👯 I’m looking to collaborate on **With an outstanding team**
-
+- :school: I am a `Computer Science Fresh Graduate` from the Faculty of Computers & Information at assuit University
+- 🔭 I’m currently working at [I work as a freelancer](https://www.linkedin.com/company/etisalat-egypt/)
+- 🌱 I’m currently studying `React` and `Node Js`
 - 📫 How to reach me **mahdymogazy758@gmail.com**
-
-- ⚡ Fun fact **There is no such thing as impossible✌️**
-
-<h3 align="left">Connect with me:</h3>
-
-<img class="profile-image" src="./image_processing20210530-1265-1lywaeb.png" alt="Profile Image" height="500"
-    width="500">
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best
+- - ⚡ Fun fact **There is no such thing as impossible✌️**
 
 
-<p align="left">
-    <a href="https://codepen.io/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://dev.to/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://twitter.com/mahdymogaz30073" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="mahdymogaz30073" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdy-mogazy-b75796273/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/mahdy-mogazy-b75796273/" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://codesandbox.com/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://kaggle.com/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/profile.php?id=100052377827284" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/profile.php?id=100052377827284" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/mahdy_mogazy/?hl=ar" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/mahdy_mogazy/?hl=ar" height="30" width="40" /></a>
-    <a href="https://dribbble.com/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://www.behance.net/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/mahdy mogazy" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahdy mogazy" height="30"
-            width="40" /></a>
-    <a href="https://www.hackerrank.com/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/mahdy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="mahdy" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="mogazy" height="30" width="40" /></a>
-    <a href="https://www.topcoder.com/members/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
-    <a href="https://discord.gg/mahdy mogazy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="mahdy mogazy" height="30" width="40" /></a>
+<br>
+
+## 📩 Connect with me
+<p align="center">
+    <a href="mailto:mahdymogazy758@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.facebook.com/profile.php?id=100052377827284" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mahdy-mogazy-b75796273/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Languages and Tools
+<br>
+<p align="center">
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<!-- <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a> -->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+	<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+<!-- <a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a> -->
+</p>
+
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
@@ -111,16 +77,11 @@
             alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
         target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40" />
-    </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://karma-runner.github.io/latest/index.html"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"
-            alt="karma" width="40" height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
+            width="40" height="40" /> 
+           <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" -->
+<!--             alt="laravel" width="40" height="40" /> </a> -->
+                <a href="https://www.linux.org/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img
@@ -157,27 +118,23 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"
-            height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
+<!--             height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdymogazy&show_icons=true&locale=en&layout=compact"
-        alt="mahdymogazy" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mahdymogazy&show_icons=true&locale=en"
-        alt="mahdymogazy" /></p>
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdymogazy&" alt="mahdymogazy" />
-</p>
+  
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=mahdymogazy&label=Profile%20views&color=0e75b6&style=flat"
-        alt="mahdymogazy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=mahdymogazy" alt="mahdymogazy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahdymogaz30073" target="blank"><img
-            src="https://img.shields.io/twitter/follow/mahdymogaz30073?logo=twitter&style=for-the-badge"
-            alt="mahdymogaz30073" /></a> </p>
+
+            
+
+
