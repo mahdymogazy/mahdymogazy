@@ -2,14 +2,14 @@
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdymogazy&label=Profile%20views&color=0e75b6&style=flat" alt="mahdymogazy" />
 		   <img src="https://img.shields.io/github/followers/mahdymogazy?label=Followers" alt="mahdymogazy758" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a `Computer Science Fresh Graduate` from the Faculty of Computers & Information at assuit University
-- 🔭 I’m currently working at [I work as a freelancer](https://www.linkedin.com/company/etisalat-egypt/)
+- 🔭 I’m currently working at [I work as a freelancer](https://www.linkedin.com/in/mahdy-mogazy-b75796273/)
 - 🌱 I’m currently studying `React` and `Node Js`
 - 📫 How to reach me **mahdymogazy758@gmail.com**
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
@@ -122,12 +122,12 @@
 
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdymogazy&theme=tokyonight_duo" alt="mahdymogazy" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+	    <img alt="mahdymogazy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahdymogazy&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdymogazy&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mahdymogazy" height="230px"/>
 <br/>
 
   
